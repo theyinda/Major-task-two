@@ -1,3 +1,3 @@
 # Major-task-two
 
-![](img/)
+![](img/screenshot.jfif)
